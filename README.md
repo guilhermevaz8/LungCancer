@@ -2,9 +2,13 @@
 
 Milestones:
 
+DONE:
+
+download das imagens
+tratar as imagens para ficar só a area do tumor
 eliminar as imagens desncessárias e explorar pyradiomics para fazer a tabela.
 
+NEXT:
 
-
-
-ética:poucos dados, porque pessoas nao partilham, se partilhassem era muito mais facil e mais optimizado
+Criar features table:
+Explorar modelos e resultados.
