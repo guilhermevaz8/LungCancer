@@ -21,3 +21,18 @@ NEXT:
 
 Cortar pacientes que não têm diagnostico
 Explorar modelos e resultados.
+
+TODO
+Miguel:
+[ ] - PDF da ética
+[ ] - Preparar setup para o vídeo
+
+Champ
+[ ] - Implemntar Neural Networks
+
+Vaz 
+[ ] - Implementar SVM
+
+Richie
+[ ] - Funções F1, AUC e ConfusionMatrix
+
