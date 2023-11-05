@@ -24,15 +24,18 @@ Explorar modelos e resultados.
 
 TODO
 Miguel:
-[ ] - PDF da ética
-[ ] - Preparar setup para o vídeo
+[X] - PDF da ética
+[X] - Preparar setup para o vídeo
+[ ] - Editar comentários do Notebook
 
 Champ
-[ ] - Implemntar Neural Networks
+[X] - Implemntar Neural Networks
+[ ] - Data Augmentation
 
 Vaz 
-[ ] - Implementar SVM
+[X] - Implementar SVM
+[ ] - Outliers e possivelmente eliminados
 
 Richie
-[ ] - Funções F1, AUC e ConfusionMatrix
+[X] - Funções F1, AUC e ConfusionMatrix
 
